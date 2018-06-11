@@ -1,0 +1,28 @@
+{
+    "events": [
+               {
+               "startTime": 1529024400,
+               "endTime": 1529035200,
+               "location": "Game Kastle",
+               "name": "Friendly Tournament"
+               },
+               {
+               "startTime": 1529103600,
+               "endTime": 1529118000,
+               "location": "Game Kastle",
+               "name": "1:1 Tournament"
+               },
+               {
+               "startTime": 1529362800,
+               "endTime": 1529377200,
+               "location": "Game Kastle",
+               "name": "2:2 Tournament"
+               },
+               {
+               "startTime": 1529449200,
+               "endTime": 1529470800,
+               "location": "Game Kastle",
+               "name": "Season Championship"
+               }
+               ]
+}
